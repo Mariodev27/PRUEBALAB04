@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Lista de Clientes</title>
+</head>
+<body>
+  <h1>Lista de Clientes</h1>
+  <ul>
+    <% clientes.forEach(function(cliente) { %>
+      <li><%= cliente.nombre %></li>
+    <% }); %>
+  </ul>
+</body>
+</html>
