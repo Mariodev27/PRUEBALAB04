@@ -1,5 +1,4 @@
 # Lab04 DeSolNube 
-Claro, aquí tienes una documentación paso a paso para construir imágenes en Docker utilizando tu Dockerfile como ejemplo:
 
 # Documentación para construir imágenes Docker
 
